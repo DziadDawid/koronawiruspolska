@@ -5,14 +5,6 @@ This website was written in React.js. It shows how many dead/confirmed/recovered
 ## API
 I am using this free [API](https://rapidapi.com/KishCom/api/covid-19-coronavirus-statistics) which I found at [RapidAPI](https://rapidapi.com/). 
 
-## How does it looks like
-
-
-
-
-
-
-
 ## Installation
 
 Use the [npm](https://nodejs.org/en/download/) package manager to install, run and see coronavirus info in Poland.
